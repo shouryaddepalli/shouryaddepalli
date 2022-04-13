@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shourya
-- 👀 I’m interested in developing data science models/workflows , adhoc-analytics IP(s) for businesses to accelrate their profit margins.
+- 👀 I’m interested in all things data , IP(s) for businesses to accelrate their profit margins.
 - 📫 How to reach me :shourya.addepalli@neudesic.com
 
 <!---
